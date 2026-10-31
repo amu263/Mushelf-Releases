@@ -5,10 +5,10 @@
 Mushelf 是一款把「收听记录」做成实体 CD 收藏架的 Android 应用。它不播放音乐，只安静地记录你在各个音乐 App 里听过的每一首，把时间、封面和心情，整理成一排可以翻阅的唱片。
 
 <p align="center">
-  <img src="assets/fluid-light.png" width="24%" alt="主页">
-  <img src="assets/release-final.png" width="24%" alt="正在播放">
-  <img src="assets/stats-01.png" width="24%" alt="统计">
-  <img src="assets/widget-home.png" width="24%" alt="桌面组件">
+  <img src="assets/home.png" width="24%" alt="主页">
+  <img src="assets/nowplaying.png" width="24%" alt="正在播放">
+  <img src="assets/stats.png" width="24%" alt="统计">
+  <img src="assets/widget.png" width="24%" alt="桌面组件">
 </p>
 
 ## 它是什么
@@ -32,7 +32,7 @@ Mushelf 是一款把「收听记录」做成实体 CD 收藏架的 Android 应�
 
 <p align="center">
   <img src="assets/card-day.png" width="32%" alt="日卡">
-  <img src="assets/card-month2.png" width="32%" alt="月卡">
+  <img src="assets/card-month.png" width="32%" alt="月卡">
   <img src="assets/card-year.png" width="32%" alt="年卡">
 </p>
 
